@@ -4,7 +4,7 @@ I'm Varun Seshu.
 
 I'm a Masters student pursuing a MS in Financial Engineering at Stevens Institute of Technology. I am interested in quantitative trading/development and am looking for internships in this space. 
 
-You can check out ![my website](https://varunseshu.glitch.me/) and reach me via ![LinkedIn](https://www.linkedin.com/in/varunseshu/)
+You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Varun487&show_icons=true&theme=radical&count_private=true)
 
