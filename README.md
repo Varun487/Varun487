@@ -6,8 +6,6 @@ I'm a Masters student pursuing a MS in Financial Engineering at Stevens Institut
 
 You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Varun487&show_icons=true&theme=radical&count_private=true)
-
 <!--
 **Varun487/Varun487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
