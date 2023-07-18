@@ -2,7 +2,7 @@
 
 I'm Varun Seshu.
 
-I'm a Masters student pursuing a MS in Financial Engineering at Stevens Institute of Technology. I am interested in quantitative trading/development and am looking for internships in this space. 
+I'm a Masters student pursuing a MS in Financial Engineering at Stevens Institute of Technology. I am interested in quantitative development and am looking for a job in this space. 
 
 You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
 
