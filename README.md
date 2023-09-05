@@ -1,22 +1,19 @@
 ### Hi there 👋
 
-I'm Varun Seshu.
+Welcome to My GitHub Profile!
 
-I'm a Masters student pursuing a MS in Financial Engineering at Stevens Institute of Technology. I am interested in quantitative development and am looking for a job in this space. 
+I'm Varun Seshu, a highly motivated and results-driven Master of Science in Financial Engineering student at Stevens Institute of Technology.  My academic background and hands-on experience have equipped me with the skills needed to analyze complex financial data, model risk, and optimize investment strategies.
 
-You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
+🌟 Here's What You'll Discover in My Repositories:
 
-<!--
-**Varun487/Varun487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Quantitative Analysis: I apply my strong analytical skills to dissect financial data, offering innovative insights and solutions to complex financial problems.
 
-Here are some ideas to get you started:
+💻 Coding Proficiency: Proficient in Python, C++, and more, I employ my programming expertise to bring quantitative models and algorithms to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📑 Research and Reports: I've conducted comprehensive research on the efficacy of various different trading and investment strategies. Please access my research findings and reports in the respective repositories.
+
+I'm actively seeking opportunities in quantitative finance, where I can apply my quantitative skills and innovative mindset to contribute to the world of financial analysis. Whether you're interested in collaborating or discussing potential roles, I'm eager to connect.
+
+🌐 You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
+
+Feel free to reach out, and let's get the conversation started. 🚀
