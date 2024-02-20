@@ -1,6 +1,6 @@
 <template>
   <div id="app" @wheel="handleScroll">
-    <Sidebar :imgsrc="imageSource" :sections="sections" :activeSection="activeSection" @updateActiveSection="updateActiveSection"/>
+    <Sidebar :imgsrc="profileImage" :sections="sections" :activeSection="activeSection" @updateActiveSection="updateActiveSection"/>
     <div>
       <div id="about" class="section">
         <About />
@@ -28,6 +28,7 @@ import Education from "@/components/Education.vue";
 import Projects from "@/components/Projects.vue";
 import Experience from "@/components/Experience.vue";
 import Skills from "@/components/Skills.vue";
+import data from "@/assets/data.json";
 
 export default {
   name: "App",
@@ -41,9 +42,9 @@ export default {
   },
   data() {
     return {
-      activeSection: 'about',
-      sections: ['about', 'education', 'projects', 'experience', 'skills'],
-      imageSource: "https://media.licdn.com/dms/image/D4E03AQFXPPAFi4grQg/profile-displayphoto-shrink_400_400/0/1667438170508?e=1710374400&v=beta&t=iF2gfD9OFdUVw_ifkHkrcCEqyH-gkMKSXa_RG30jUqY",
+      activeSection: data["sidebar"]["activeSection"],
+      sections: data["sidebar"]["sections"],
+      profileImage: data["sidebar"]["profileImage"]
     };
   },
   methods: {

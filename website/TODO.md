@@ -1,6 +1,6 @@
 # TODO
 
-- Sidebar ![incomplete]
+- Sidebar ![done]
     - Add fixed left side bar ![done]
     - Add sections ![done]
     - Capitalize sections ![done]
@@ -8,16 +8,14 @@
     - Click funtionality ![done]
     - Add image ![done]
         - Pass image source as a prop ![done]
-    - Scroll functionality ![incomplete]
-        - make it based on current active section and fix section change when scrolling from bottom to top
-    - Make bar responsive to smaller screen sizes ![incomplete]
+    - Scroll functionality ![done]
+- Read information from json file ![done]
 - Sections
     - About section
     - Education section
     - Experience section
     - Projects section
     - Skills section
-- Read information from json file
 - Responsive to different screens sizes
 - Push to github
 - Host on github
