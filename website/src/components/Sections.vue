@@ -7,7 +7,7 @@
         <Education :education="sections['education']" />
       </div>
       <div id="experience" class="section">
-        <Experience />
+        <Experience :experience="sections['experience']"/>
       </div>
       <div id="projects" class="section">
         <Projects />
@@ -43,5 +43,8 @@ export default {
 </script>
   
 <style scoped>
-
+.section {
+  height: fit-content;
+  margin-bottom: 20%;
+}
 </style>

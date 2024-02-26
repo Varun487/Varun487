@@ -48,6 +48,60 @@
                 "program": "High School Diploma",
                 "description": ""
             }
+        ],
+        "experience": [
+            {
+                "company": "Quantm Capital",
+                "from": "January 2024",
+                "to": "Present",
+                "title": "Quantitative Developer",
+                "description":[
+                    "Pioneered the development of a robust backtesting system for bitcoin quantitative trading strategies",
+                    "Optimized critical parameters for trading strategies, leading to a 3% increase in return on investment"
+                ]
+            },
+            {
+                "company": "Hiver",
+                "from": "January 2022",
+                "to": "July 2022",
+                "title": "Software Engineering Intern",
+                "description":[
+                    "Developed Hiver Chat app’s frontend using Vue.js and ReactJS, increasing customer engagement by 2%",
+                    "Integrated 8 customization features to Hiver Chat app by adding functionality to Hiver Admin Panel using ReactJS",
+                    "Implemented an interactive analytics dashboard with Vue.js, enabling customers to track chat engagement and customer feedback, resulting in a 5% increase in customers feedback responses"
+                ]
+            },
+            {
+                "company": "Global Discovery Schools",
+                "from": "July 2020",
+                "to": "March 2021",
+                "title": "Intern Product Developer",
+                "description":[
+                    "Implemented product website's landing page using Vue.js achieving 17% boost in user engagement",
+                    "Built customer feedback section in product website increasing response rates by 7%",
+                    "Enhanced mobile site responsiveness for 4 different screen resolutions"
+                ]
+            },
+            {
+                "company": "Vincere Solutions",
+                "from": "January 2020",
+                "to": "May 2020",
+                "title": "Software Developer Intern",
+                "description":[
+                    "Migrated business logic from vanilla JavaScript to firebase cloud functions using Node.js, improving code reusability",
+                    "Improved security by abstracting essential business logic from the end user, reducing the risk of data breaches by 50%"
+                ]
+            },
+            {
+                "company": "PES University",
+                "from": "June 2019",
+                "to": "July 2019",
+                "title": "Subject Matter Expert",
+                "description":[
+                    "Taught 40 students the course - Building a Computer from First Principles",
+                    "Created course content for 16 hours of classes over 4 weeks and graded students in final project"
+                ]
+            }
         ]
     }
 }

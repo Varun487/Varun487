@@ -13,8 +13,8 @@
 - Sections ![incomplete]
     - About section ![done]
     - Education section ![done]
-    - Experience section ![incomplete]
-    - Projects section
+    - Experience section ![done]
+    - Projects section ![incomplete]
     - Skills section
 - Responsive to different screens sizes
 - Host on github
@@ -22,7 +22,8 @@
 - Optimize code
     - Remove all hardcoding
     - Fix all CSS
-- Document code
+    - Formatting
+    - Documentation
 - Change README and add instructions to replicate the website
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
