@@ -14,7 +14,7 @@
     - About section ![done]
     - Education section ![done]
     - Experience section ![done]
-    - Projects section ![incomplete]
+    - Projects section ![done]
     - Skills section ![incomplete]
 - Responsive to different screens sizes - use bootstrap ![incomplete]
 - Host on github ![incomplete]
