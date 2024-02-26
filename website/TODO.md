@@ -12,8 +12,8 @@
 - Read information from json file ![done]
 - Sections ![incomplete]
     - About section ![done]
-    - Education section ![incomplete]
-    - Experience section
+    - Education section ![done]
+    - Experience section ![incomplete]
     - Projects section
     - Skills section
 - Responsive to different screens sizes
@@ -21,6 +21,7 @@
 - Setup automated deployment on github
 - Optimize code
     - Remove all hardcoding
+    - Fix all CSS
 - Document code
 - Change README and add instructions to replicate the website
 

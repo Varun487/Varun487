@@ -4,13 +4,13 @@
         <About :about="sections['about']"/>
       </div>
       <div id="education" class="section">
-        <Education />
-      </div>
-      <div id="projects" class="section">
-        <Projects />
+        <Education :education="sections['education']" />
       </div>
       <div id="experience" class="section">
         <Experience />
+      </div>
+      <div id="projects" class="section">
+        <Projects />
       </div>
       <div id="skills" class="section">
         <Skills />

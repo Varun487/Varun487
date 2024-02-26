@@ -1,7 +1,7 @@
 {
     "sidebar": {
         "activeSection": "about",
-        "sections": ["about", "education", "projects", "experience", "skills"],
+        "sections": ["about", "education", "experience", "projects", "skills"],
         "profileImage": "https://media.licdn.com/dms/image/D4E03AQFXPPAFi4grQg/profile-displayphoto-shrink_400_400/0/1667438170508?e=1710374400&v=beta&t=iF2gfD9OFdUVw_ifkHkrcCEqyH-gkMKSXa_RG30jUqY"
     },
     "sections": {
@@ -26,8 +26,28 @@
                 } 
             }
         },
-        "education": {
-            
-        }
+        "education": [
+            {
+                "institution": "Stevens Institute of Technology",
+                "from": "September 2022",
+                "to": "May 2024",
+                "program": "Master of Science in Financial Engineering",
+                "description": "Concentration in Algorithmic Trading Strategies"
+            },
+            {
+                "institution": "PES University",
+                "from": "June 2018",
+                "to": "May 2022",
+                "program": "Bachelor of Technology in Computer Science Engineering",
+                "description": "Specialization in Machine Intelligence and Data Science"
+            },
+            {
+                "institution": "Delhi Public School Bangalore East",
+                "from": "June 2009",
+                "to": "March 2018",
+                "program": "High School Diploma",
+                "description": ""
+            }
+        ]
     }
 }

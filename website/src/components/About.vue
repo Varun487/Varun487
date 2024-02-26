@@ -21,13 +21,10 @@
 <script>
 export default {
     name: "Sections",
-    components: {
-    },
     props: {
         about: JSON,
-    },
-    methods: {
-    },};
+    }
+};
 </script>
   
 <style scoped>
