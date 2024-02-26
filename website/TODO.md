@@ -10,14 +10,13 @@
         - Pass image source as a prop ![done]
     - Scroll functionality ![done]
 - Read information from json file ![done]
-- Sections
-    - About section
-    - Education section
+- Sections ![incomplete]
+    - About section ![done]
+    - Education section ![incomplete]
     - Experience section
     - Projects section
     - Skills section
 - Responsive to different screens sizes
-- Push to github
 - Host on github
 - Setup automated deployment on github
 - Optimize code

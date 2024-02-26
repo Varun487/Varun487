@@ -3,5 +3,31 @@
         "activeSection": "about",
         "sections": ["about", "education", "projects", "experience", "skills"],
         "profileImage": "https://media.licdn.com/dms/image/D4E03AQFXPPAFi4grQg/profile-displayphoto-shrink_400_400/0/1667438170508?e=1710374400&v=beta&t=iF2gfD9OFdUVw_ifkHkrcCEqyH-gkMKSXa_RG30jUqY"
+    },
+    "sections": {
+        "about": {
+            "firstname": "Varun",
+            "lastname": "Seshu",
+            "phone": "+1 (201) 736-5840",
+            "email": "seshuvarun@gmail.com",
+            "description": "M.S in Financial Engineering",
+            "links": {
+                "website": {
+                    "icon": "fas fa-globe-americas",
+                    "link": "https://varunseshu.glitch.me/"
+                },
+                "github": {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com/Varun487/"
+                },
+                "linkedin": {
+                    "icon": "fab fa-linkedin",
+                    "link": "https://www.linkedin.com/in/varunseshu/"
+                } 
+            }
+        },
+        "education": {
+            
+        }
     }
 }

@@ -1,55 +1,32 @@
 <template>
   <div id="app" @wheel="handleScroll">
-    <Sidebar :imgsrc="profileImage" :sections="sections" :activeSection="activeSection" @updateActiveSection="updateActiveSection"/>
-    <div>
-      <div id="about" class="section">
-        <About />
-      </div>
-      <div id="education" class="section">
-        <Education />
-      </div>
-      <div id="projects" class="section">
-        <Projects />
-      </div>
-      <div id="experience" class="section">
-        <Experience />
-      </div>
-      <div id="skills" class="section">
-        <Skills />
-      </div>
-    </div>
+    <Sidebar :imgsrc="profileImage" :sections="sidebarSections" :activeSection="activeSection" @updateActiveSection="updateActiveSection"/>
+    <Sections :sections="sections" />
   </div>
 </template>
 
 <script>
 import Sidebar from "@/components/Sidebar.vue";
-import About from "@/components/About.vue";
-import Education from "@/components/Education.vue";
-import Projects from "@/components/Projects.vue";
-import Experience from "@/components/Experience.vue";
-import Skills from "@/components/Skills.vue";
+import Sections from "@/components/Sections.vue";
 import data from "@/assets/data.json";
 
 export default {
   name: "App",
   components: {
-    About,
-    Education,
-    Projects,
-    Experience,
-    Skills,
     Sidebar,
+    Sections,
   },
   data() {
     return {
       activeSection: data["sidebar"]["activeSection"],
-      sections: data["sidebar"]["sections"],
-      profileImage: data["sidebar"]["profileImage"]
+      sidebarSections: data["sidebar"]["sections"],
+      profileImage: data["sidebar"]["profileImage"],
+      sections: data["sections"],
     };
   },
   methods: {
     handleScroll() {
-      for (const section of this.sections) {
+      for (const section of this.sidebarSections) {
         const element = document.getElementById(section);
         if (element) {
           const rect = document.getElementById(section).getBoundingClientRect();

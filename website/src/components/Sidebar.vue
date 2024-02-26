@@ -73,6 +73,7 @@ nav li:hover {
   max-height: 10rem;
   border: 0.5rem solid rgba(255, 255, 255, 0.2);
   border-radius: 100%;
+  margin-top: 5rem;
 }
 
 </style>
