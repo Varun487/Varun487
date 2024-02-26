@@ -10,7 +10,7 @@
         <Experience :experience="sections['experience']"/>
       </div>
       <div id="projects" class="section">
-        <Projects />
+        <Projects :projects="sections['projects']"/>
       </div>
       <div id="skills" class="section">
         <Skills />

@@ -15,16 +15,16 @@
     - Education section ![done]
     - Experience section ![done]
     - Projects section ![incomplete]
-    - Skills section
-- Responsive to different screens sizes
-- Host on github
-- Setup automated deployment on github
-- Optimize code
-    - Remove all hardcoding
-    - Fix all CSS
-    - Formatting
-    - Documentation
-- Change README and add instructions to replicate the website
+    - Skills section ![incomplete]
+- Responsive to different screens sizes - use bootstrap ![incomplete]
+- Host on github ![incomplete]
+- Setup automated deployment on github ![incomplete]
+- Optimize code ![incomplete]
+    - Remove all hardcoding ![incomplete]
+    - Fix all CSS ![incomplete]
+    - Formatting ![incomplete]
+    - Documentation ![incomplete]
+- Change README and add instructions to replicate the website ![incomplete]
 
 [done]: https://img.shields.io/badge/DONE-brightgreen
 [incomplete]: https://img.shields.io/badge/INCOMPLETE-red
