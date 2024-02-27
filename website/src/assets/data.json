@@ -131,6 +131,27 @@
                 "github": "https://github.com/Varun487/AIAlgoTrading",
                 "web": "https://github.com/Varun487/AIAlgoTrading"
             }
-        ]
+        ],
+        "skills": {
+            "skill-icons": [
+                "fab fa-python",
+                "fab fa-github",
+                "fab fa-html",
+                "fab fa-bootstrap",
+                "fab fa-js",
+                "fab fa-node",
+                "fab fa-css3",
+                "fab fa-vuejs"
+            ],
+            "skill-list": [
+                "C++",
+                "R",
+                "Financial analysis and derivatives pricing",
+                "Portfolio optimization",
+                "Django",
+                "Pandas",
+                "Keras"
+            ]
+        }
     }
 }

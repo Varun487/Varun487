@@ -88,10 +88,6 @@ export default {
   cursor: pointer;
 }
 
-.fa-globe-americas::before {
-  content: "\f57d";
-}
-
 a {
   color: #fff;
 }

@@ -13,7 +13,7 @@
         <Projects :projects="sections['projects']"/>
       </div>
       <div id="skills" class="section">
-        <Skills />
+        <Skills :skills="sections['skills']"/>
       </div>
     </div>
 </template>
