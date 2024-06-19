@@ -19,10 +19,6 @@ export default {
     },
     methods: {
         updateActiveSection(section) {
-            const element = document.getElementById(section);
-            if (element) {
-                element.scrollIntoView({ behavior: "smooth" });
-            }
             this.$emit("updateActiveSection", section);
         },
     },
@@ -31,7 +27,8 @@ export default {
   
 <style scoped>
 .sidebar {
-    width: 15rem;
+    min-width: 13rem;
+    width: 15%;
     position: fixed;
     top: 0;
     left: 0;
@@ -43,6 +40,10 @@ export default {
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 0.05rem;
+}
+
+nav {
+    margin-top: 50px;
 }
 
 nav ul {
@@ -75,5 +76,4 @@ nav li:hover {
   border-radius: 100%;
   margin-top: 5rem;
 }
-
 </style>
