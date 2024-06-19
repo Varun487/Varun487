@@ -31,7 +31,7 @@ export default {
   
 <style scoped>
 .sidebar {
-    width: 15%;
+    width: 15rem;
     position: fixed;
     top: 0;
     left: 0;

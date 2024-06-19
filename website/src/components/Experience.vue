@@ -26,8 +26,6 @@ export default {
 </script>
 
 <style scoped>
-.experience {
-}
 
 h1 {
 font-size: 2.5rem;
