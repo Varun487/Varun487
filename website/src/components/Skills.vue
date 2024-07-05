@@ -54,9 +54,9 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.5rem;
-  width: 1.4rem; 
-  height: 1.4rem; 
+  font-size: 2rem;
+  width: 3rem; 
+  height: 3rem; 
   color: #fff;
   background: #343a40;
   margin-top: 2rem;

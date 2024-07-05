@@ -1,7 +1,7 @@
 <template>
 <div class="topbar">
     <div class="topbar-content">
-    <div class="center-text">{{ name }}</div>
+    <div class="topbar-name">{{ name }}</div>
     <button class="toggle-btn" @click="toggleSections">
         ☰
     </button>
@@ -46,8 +46,6 @@ methods: {
     background-color: #3859bd;
     color: white;
     display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 10px 0;
     position: fixed;
 }
@@ -61,10 +59,13 @@ methods: {
     margin-top: 50px;
 }
 
-.center-text {
-    flex: 1;
-    text-align: center;
-    font-size: 20px;
+.topbar-name {
+  font-size: 1.5rem;
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 0;
 }
 
 .toggle-btn {
@@ -108,12 +109,8 @@ nav li:hover {
   justify-content: center;
 }
 
-.slide-down-enter-active, .slide-down-leave-active {
-  transition: max-height 0.5s ease-in-out;
-  overflow: hidden;
+.slide-down {
+  transition: all 0.5s ease-in-out;
 }
 
-.slide-down-enter, .slide-down-leave-to {
-  max-height: 0;
-}
 </style>

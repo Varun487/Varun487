@@ -11,7 +11,7 @@
             "lastname": "Seshu",
             "phone": "+1 (201) 736-5840",
             "email": "seshuvarun@gmail.com",
-            "description": "M.S in Financial Engineering",
+            "description": "M.S in Financial Engineering | Quantitative Developer",
             "links": {
                 "website": {
                     "icon": "fas fa-globe-americas",
@@ -54,8 +54,8 @@
             {
                 "company": "Quantm Capital",
                 "from": "January 2024",
-                "to": "Present",
-                "title": "Quantitative Developer",
+                "to": "May 2024",
+                "title": "Quantitative Developer Intern",
                 "description":[
                     "Pioneered the development of a robust backtesting system for bitcoin quantitative trading strategies",
                     "Optimized critical parameters for trading strategies, leading to a 3% increase in return on investment"
@@ -67,7 +67,7 @@
                 "to": "July 2022",
                 "title": "Software Engineering Intern",
                 "description":[
-                    "Developed Hiver Chat app’s frontend using Vue.js and ReactJS, increasing customer engagement by 2%",
+                    "Developed Hiver Chat app's frontend using Vue.js and ReactJS, increasing customer engagement by 2%",
                     "Integrated 8 customization features to Hiver Chat app by adding functionality to Hiver Admin Panel using ReactJS",
                     "Implemented an interactive analytics dashboard with Vue.js, enabling customers to track chat engagement and customer feedback, resulting in a 5% increase in customers feedback responses"
                 ]
@@ -106,6 +106,20 @@
         ],
         "projects": [
             {
+                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/PairsTrading.png?v=1666559600183",
+                "title": "AI Algorithmic Trading platform",
+                "brief": "A platform to create, backtest and paper trade equities using automated strategies",
+                "description": [
+                    "Trained 150 LSTM models leveraging Pandas, Keras and Django to predict prices of stocks in the NIFTY 50 index using historical stock data",
+                    "Ran 2000 backtests resulting in 1.2 million (simulated) orders, 600,000 buy/sell signals and 600,000 trades and generated over 2000 paper trades",
+                    "Published an IEEE research paper after analyzing results of backtests",
+                    "Visualized strategy performance, backtests and paper trades by building a website utilizing Vue.js"
+                ],
+                "keywords": [ "Python", "Django", "Pandas", "Keras", "JavaScript", "Vue.js", "LSTM", "Algorithmic Trading"],
+                "github": "https://github.com/Varun487/AIAlgoTrading",
+                "web": "https://github.com/Varun487/AIAlgoTrading"
+            },
+            {
                 "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/Period6_Model2_Strategy_90%5E90.png?v=1693956144618",
                 "title": "Portfolio allocation models comparision",
                 "brief": "Built 2 variations of factor-based long/short portfolio allocation models",
@@ -119,25 +133,61 @@
                 "web": "https://github.com/Varun487/PortfolioAllocationModels"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/PairsTrading.png?v=1666559600183",
-                "title": "AI Trading platform",
-                "brief": "A platform to create, backtest and paper trade equities using automated strategies",
+                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/BinomialTree.png?v=1693957185932",
+                "title": "American Options Pricing Engine",
+                "brief": "Priced American Options using 2 different methods",
                 "description": [
-                    "Trained 150 LSTM models leveraging Pandas, Keras and Django to predict prices of stocks in the NIFTY 50 index using historical stock data",
-                    "Ran 2000 backtests resulting in 1.2 million (simulated) orders, 600,000 buy/sell signals and 600,000 trades and generated over 2000 paper trades",
-                    "Published an IEEE research paper after analyzing results of backtests",
-                    "Visualized strategy performance, backtests and paper trades by building a website utilizing Vue.js"
+                    "Designed and implemented an American call and put options pricing engine using binomial and random tree methods",
+                    "Priced 6 combinations of American options utilizing factory and observer design patterns using C++ and Quantlib"
                 ],
-                "keywords": [ "Python", "Django", "Pandas", "Keras", "JavaScript", "Vue.js", "LSTM", "Algorithmic Trading"],
-                "github": "https://github.com/Varun487/AIAlgoTrading",
-                "web": "https://github.com/Varun487/AIAlgoTrading"
+                "keywords": ["C++", "QuantLib", "Binomial Option Pricing Model", "Random Tree Option Pricing Model"],
+                "github": "https://github.com/Varun487/OptionsPricingEngine",
+                "web": "https://github.com/Varun487/OptionsPricingEngine"
+            },
+            {
+                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/JS.jpg?v=1709330053073",
+                "title": "Mini JavaScript Compiler",
+                "brief": "A compiter for Javascript",
+                "description": [
+                    "Developed a compiler for JavaScript using yacc and lex for lexical analysis, symbol table generation, and syntax validation",
+                    "Implemented optimization techniques to generate optimized intermediate code from JavaScript programs",
+                    "Managed assignments, data types, expression evaluation and for loop functionality in JavaScript"
+                ],
+                "keywords": ["Yacc", "Lex", "C", "JavaScript"],
+                "github": "https://github.com/Varun487/MiniJavaScriptCompiler",
+                "web": "https://github.com/Varun487/MiniJavaScriptCompiler"
+            },
+            {
+                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/TradingBinaryOptions.png?v=1666559041432",
+                "title": "Binary Options Trading Strategies",
+                "brief": "Utilized predictions of ML models on stock price direction to trade binary options",
+                "description": [
+                    "Trained LSTM, BiLSTM and transformer models on historical data of 5 tech stocks to predict stock price direction",
+                    "Achieved a maximum accuracy of 70.6% with a BiLSTM model using Python, Pandas and Keras",
+                    "Backtested models on daily stock market data, which resulted in a 6% return on invested capital over a period of 90 days"
+                ],
+                "keywords": ["Python", "Pandas", "Deep Learning", "LSTM", "BiLSTM", "Transformers"],
+                "github": "https://github.com/Varun487/BinaryOptions_DeepLearning",
+                "web": "https://github.com/Varun487/BinaryOptions_DeepLearning"
+            },
+            {
+                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/DataAnalytics.png?v=1666559941675",
+                "title": "Equity pairs trading models",
+                "brief": "Built ML models to predict instances where pairs trading is profitable",
+                "description": [
+                    "Sourced stock market data and and found the most correlated and co-integrated stock pairs in the market using pandas",
+                    "Built and evaluated 24 ML Models - including Linear Regression, ARIMA and LSTMs using keras predicting future prices of chosen stocks",
+                    "Built a backtester to generate a report with performance metrics to evaluate and improve models"
+                ],
+                "keywords": ["Python", "Pandas", "Keras", "LSTM", "ARIMA", "Linear Regression"],
+                "github": "https://github.com/Varun487/DataAnalytics_PairTradingModels",
+                "web": "https://github.com/Varun487/DataAnalytics_PairTradingModels"
             }
         ],
         "skills": {
             "skill-icons": [
                 "fab fa-python",
                 "fab fa-github",
-                "fab fa-html",
                 "fab fa-bootstrap",
                 "fab fa-js",
                 "fab fa-node",
