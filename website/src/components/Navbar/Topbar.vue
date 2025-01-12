@@ -5,7 +5,8 @@
     <button class="toggle-btn" @click="toggleSections">
         ☰
     </button>
-    <transition name="slide-down">
+    </div>
+    <transition name="dropdown">
         <nav v-if="showSections" class="dropdown-menu">
             <ul>
                 <li v-for="section in sections" :key="section" @click="updateActiveSection(section)" :class="{ 'active': activeSection === section }">{{ section }}</li>
@@ -13,7 +14,6 @@
         </nav>
     </transition>
     </div>
-</div>
 </template>
 
 <script>
@@ -35,6 +35,7 @@ methods: {
     },
     updateActiveSection(section) {
         this.$emit("updateActiveSection", section);
+        this.showSections = false;
     },
 },
 };
@@ -48,6 +49,7 @@ methods: {
     display: flex;
     padding: 10px 0;
     position: fixed;
+    z-index: 100;
 }
 
 .topbar-content {
@@ -83,34 +85,34 @@ nav ul {
 
 nav li {
     cursor: pointer;
-    margin-bottom: 10px;
-    transition: 0.3s;
+    margin-left: 20px;
+    padding: 10px;
     color: rgba(255,255,255,0.5);
     text-decoration: none;
+    font-weight: 800;
+    transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 nav li:hover {
     text-decoration: underline;
     color: rgba(255,255,255,1);
     text-decoration: none;
-}
+} 
 
 .active {
    color: rgba(255,255,255,1);
 }
 
 .dropdown-menu {
+  text-transform: uppercase;
+  list-style-type: none;
   width: 100%;
   background-color: #3859bd;
   position: absolute;
   top: 100%;
   left: 0;
   display: flex;
-  justify-content: center;
-}
-
-.slide-down {
-  transition: all 0.5s ease-in-out;
+  overflow: hidden;
 }
 
 </style>

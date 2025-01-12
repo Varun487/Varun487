@@ -35,7 +35,7 @@ props: {
 },
 data() {
     return {
-    isSmallScreen: window.innerWidth <= 600
+    isSmallScreen: window.innerWidth <= 950 || window.innerHeight <= 500
     };
 },
 mounted() {
