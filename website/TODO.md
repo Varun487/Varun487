@@ -23,7 +23,7 @@
     - Test deployed website ![done]
 - Update json data to latest information ![done]
 - Responsive to different screens sizes ![incomplete]
-    - Topbar for smaller screens ![incomplete]
+    - Topbar for smaller screens ![done]
         - Change smoothly between screen sizes ![done]
         - Show toggle button ![done]
         - Show name ![done]
