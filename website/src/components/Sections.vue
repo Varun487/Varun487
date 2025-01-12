@@ -47,4 +47,12 @@ export default {
   height: fit-content;
   margin-bottom: 20%;
 }
+
+@media (max-width: 600px) {
+  .section {
+    margin-top: 20%;
+    margin-bottom: 30%;
+  }
+}
+
 </style>

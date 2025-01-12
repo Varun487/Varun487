@@ -7,7 +7,6 @@
 
 <script>
 import Navbar from "./components/Navbar/Navbar.vue";
-// import Sidebar from "@/components/Sidebar.vue";
 import Sections from "@/components/Sections.vue";
 import data from "@/assets/data.json";
 
@@ -75,6 +74,12 @@ export default {
   height: 100vh;
   box-sizing: border-box;
   transition: scroll-behavior 3s ease-in-out;
+}
+
+@media (max-width: 600px) {
+  .section {
+    margin-left: 5%;
+  }
 }
 
 #app {
