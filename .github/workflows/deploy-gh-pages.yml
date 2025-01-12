@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Clean install dependencies
-        run: npm --prefix ./website/ ci
+        run: npm ci
 
       - name: Run deploy script
         run: |
