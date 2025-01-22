@@ -11,11 +11,11 @@
             "lastname": "Seshu",
             "phone": "+1 (201) 736-5840",
             "email": "seshuvarun@gmail.com",
-            "description": "M.S in Financial Engineering | Quantitative Developer",
+            "description": "Algorithmic Trading Analyst @ Bestex Research | MS in Financial Engineering",
             "links": {
                 "website": {
                     "icon": "fas fa-globe-americas",
-                    "link": "https://varunseshu.glitch.me/"
+                    "link": "https://varun487.github.io/Varun487/"
                 },
                 "github": {
                     "icon": "fab fa-github",
@@ -51,6 +51,17 @@
             }
         ],
         "experience": [
+            {
+                "company": "Bestex Research",
+                "from": "August 2024",
+                "to": "Present",
+                "title": "Algorithmic Trading Analyst",
+                "description":[
+                    "Onboarded 4 equities and futures clients, reducing setup time by 30% through streamlined processes and leveraging FIX protocol expertise and certifications",
+                    "Owned and improved the UAT testing environment by automating operational workflows with Python scripts, cutting manual effort by 40%",
+                    "Certified FIX routes for 4 downstream brokers and venues, ensuring seamless integration and compliance"
+                ]
+            },
             {
                 "company": "Quantm Capital",
                 "from": "January 2024",
