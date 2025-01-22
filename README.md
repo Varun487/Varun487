@@ -17,6 +17,6 @@ I’m Varun Seshu, an Algorithmic Trading Analyst at BestEx Research and a recen
 I’m passionate about applying my quantitative skills and innovative mindset to solve complex problems in finance. Whether you’re interested in collaborating or discussing ideas, feel free to connect.
 
 📫 Let’s Connect and Collaborate:
-	•	🌐 Portfolio Website: [Explore My Work](https://varun487.github.io/Varun487/)
-	•	💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/varunseshu/)
-	•	✉️ Email: seshuvarun@gmail.com
+- 🌐 Portfolio Website: [Explore My Work](https://varun487.github.io/Varun487/)
+- 💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/varunseshu/)
+- ✉️ Email: seshuvarun@gmail.com
