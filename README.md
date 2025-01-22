@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile!
 
-I'm Varun Seshu, a highly motivated and results-driven Master of Science in Financial Engineering student at Stevens Institute of Technology.  My academic background and hands-on experience have equipped me with the skills needed to analyze complex financial data, model risk, and optimize investment strategies.
+I’m Varun Seshu, an Algorithmic Trading Analyst at BestEx Research and a recent graduate with a Master of Science in Financial Engineering from Stevens Institute of Technology. My academic background and professional experience have equipped me with the expertise to analyze complex financial data, optimize execution strategies, and develop advanced trading solutions.
 
 🌟 Here's What You'll Discover in My Repositories:
 
@@ -12,8 +12,11 @@ I'm Varun Seshu, a highly motivated and results-driven Master of Science in Fina
 
 📑 Research and Reports: I've conducted comprehensive research on the efficacy of various different trading and investment strategies. Please access my research findings and reports in the respective repositories.
 
-I'm actively seeking opportunities in quantitative finance, where I can apply my quantitative skills and innovative mindset to contribute to the world of financial analysis. Whether you're interested in collaborating or discussing potential roles, I'm eager to connect.
+🌐 Professional Experience: As part of my role at BestEx Research, I work on client onboarding, automating workflows, and optimizing execution strategies using the FIX protocol and Python.
 
-🌐 You can check out [my website](https://varunseshu.glitch.me/) and reach me via [LinkedIn](https://www.linkedin.com/in/varunseshu/).
+I’m passionate about applying my quantitative skills and innovative mindset to solve complex problems in finance. Whether you’re interested in collaborating or discussing ideas, feel free to connect.
 
-Feel free to reach out, and let's get the conversation started. 🚀
+📫 Let’s Connect and Collaborate:
+	•	🌐 Portfolio Website: [Explore My Work](https://varun487.github.io/Varun487/)
+	•	💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/varunseshu/)
+	•	✉️ Email: seshuvarun@gmail.com
