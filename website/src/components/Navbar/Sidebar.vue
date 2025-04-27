@@ -1,6 +1,6 @@
 <template>
     <div class="sidebar">
-        <img :src="imgsrc" alt="Sidebar Image" class="sidebar-image" />
+        <img :src="require(`../../assets/${imgsrc}`)" alt="Sidebar Image" class="sidebar-image" />
         <nav>
             <ul>
                 <li v-for="section in sections" :key="section" @click="updateActiveSection(section)" :class="{ 'active': activeSection === section }">{{ section }}</li>
