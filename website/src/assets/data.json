@@ -9,7 +9,7 @@
         "about": {
             "firstname": "Varun",
             "lastname": "Seshu",
-            "phone": "+1 (201) 736-5840",
+            "phone": "+1 (201) 736-5840 · +91 9535059781",
             "email": "seshuvarun@gmail.com",
             "description": "Algorithmic Trading Analyst @ Bestex Research | MS in Financial Engineering",
             "links": {
@@ -57,9 +57,10 @@
                 "to": "Present",
                 "title": "Algorithmic Trading Analyst",
                 "description":[
-                    "Onboarded 4 equities and futures clients, reducing setup time by 30% through streamlined processes and leveraging FIX protocol expertise and certifications",
-                    "Owned and improved the UAT testing environment by automating operational workflows with Python scripts, cutting manual effort by 40%",
-                    "Certified FIX routes for 4 downstream brokers and venues, ensuring seamless integration and compliance"
+                    "Certified and managed FIX connectivity for multiple brokers and venues, ensuring reliable trade routing and compliance.",
+                    "Supported real-time trading operations, resolving production issues in coordination with traders, engineers, and venues.",
+                    "Streamlined onboarding for equities and futures clients, reducing setup time by 5% by automating the certification process leveraging FIX protocol expertise.",
+                    "Owned and improved the UAT testing environment by automating operational workflows with Python scripts, cutting manual effort."
                 ]
             },
             {
