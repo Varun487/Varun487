@@ -11,7 +11,7 @@
             "lastname": "Seshu",
             "phone": "+1 (201) 736-5840 · +91 9535059781",
             "email": "seshuvarun@gmail.com",
-            "description": "Algorithmic Trading Analyst @ Bestex Research | MS in Financial Engineering",
+            "description": "Front Office Product Support - Electronic Trading | Liquidnet (TP ICAP)",
             "links": {
                 "website": {
                     "icon": "fas fa-globe-americas",
@@ -52,9 +52,22 @@
         ],
         "experience": [
             {
+                "company": "Liquidnet (TP ICAP)",
+                "from": "September 2025",
+                "to": "Present",
+                "title": "Front Office Product Support - Electronic Trading",
+                "description":[
+                    "Supported electronic and algorithmic trading workflows for institutional equity execution, monitoring and troubleshooting OMS/EMS and execution flows to ensure stable order routing and execution quality.",
+                    "Partnered closely with traders, sales, and engineering to resolve time-sensitive production issues in live market conditions, supporting front-office trading operations.",
+                    "Analyzed order lifecycle and execution behavior to identify flow, configuration, and connectivity issues impacting algorithmic trading performance.",
+                    "Implemented system and strategy configuration changes within OMS/EMS and trading platforms to support client onboarding, coverage team requests, and trading workflow requirements",
+                    "Assisted in incident response and post-trade analysis, helping reduce recurring production issues through improved workflows and documentation."
+                ]
+            },
+            {
                 "company": "Bestex Research",
                 "from": "August 2024",
-                "to": "Present",
+                "to": "August 2025",
                 "title": "Algorithmic Trading Analyst",
                 "description":[
                     "Certified and managed FIX connectivity for multiple brokers and venues, ensuring reliable trade routing and compliance.",
