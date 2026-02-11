@@ -25,7 +25,7 @@ npm install
 npm run serve
 ```
 
-7. Push code to github repository to deply your website.
+7. Push code to github repository to depoly your website.
 
 
 ## Additional commands
