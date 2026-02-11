@@ -44,14 +44,15 @@ export default {
   
 <style scoped>
 .section {
-  height: fit-content;
-  margin-bottom: 20%;
+  min-height: 100vh;
+  padding-bottom: 2rem;
 }
 
 @media (max-width: 600px) {
   .section {
     margin-top: 20%;
-    margin-bottom: 30%;
+    min-height: 100vh;
+    padding-bottom: 2rem;
   }
 }
 

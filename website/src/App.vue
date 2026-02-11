@@ -71,7 +71,7 @@ export default {
 .section {
   margin-left: 25%;
   padding: 0;
-  height: 100vh;
+  min-height: 100vh;
   box-sizing: border-box;
   transition: scroll-behavior 3s ease-in-out;
 }
