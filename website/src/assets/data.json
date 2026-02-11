@@ -131,7 +131,7 @@
         ],
         "projects": [
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/PairsTrading.png?v=1666559600183",
+                "image": "AIAlgoTrading.png",
                 "title": "AI Algorithmic Trading platform",
                 "brief": "A platform to create, backtest and paper trade equities using automated strategies",
                 "description": [
@@ -145,7 +145,7 @@
                 "web": "https://github.com/Varun487/AIAlgoTrading"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/Period6_Model2_Strategy_90%5E90.png?v=1693956144618",
+                "image": "PortfolioAllocationModels.png",
                 "title": "Portfolio allocation models comparision",
                 "brief": "Built 2 variations of factor-based long/short portfolio allocation models",
                 "description": [
@@ -158,7 +158,7 @@
                 "web": "https://github.com/Varun487/PortfolioAllocationModels"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/BinomialTree.png?v=1693957185932",
+                "image": "OptionsPricing.png",
                 "title": "American Options Pricing Engine",
                 "brief": "Priced American Options using 2 different methods",
                 "description": [
@@ -170,7 +170,7 @@
                 "web": "https://github.com/Varun487/OptionsPricingEngine"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/JS.jpg?v=1709330053073",
+                "image": "JavaScriptCompiler.png",
                 "title": "Mini JavaScript Compiler",
                 "brief": "A compiter for Javascript",
                 "description": [
@@ -183,7 +183,7 @@
                 "web": "https://github.com/Varun487/MiniJavaScriptCompiler"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/TradingBinaryOptions.png?v=1666559041432",
+                "image": "BinaryOptions.png",
                 "title": "Binary Options Trading Strategies",
                 "brief": "Utilized predictions of ML models on stock price direction to trade binary options",
                 "description": [
@@ -196,7 +196,7 @@
                 "web": "https://github.com/Varun487/BinaryOptions_DeepLearning"
             },
             {
-                "image": "https://cdn.glitch.global/cc124832-ec83-4a08-a1d3-2ae488f57669/DataAnalytics.png?v=1666559941675",
+                "image": "PairsTrading.png",
                 "title": "Equity pairs trading models",
                 "brief": "Built ML models to predict instances where pairs trading is profitable",
                 "description": [
@@ -221,8 +221,8 @@
             ],
             "skill-list": [
                 "C++",
-                "R",
-                "Financial analysis and derivatives pricing",
+                "Python",
+                "FIX Protocol",
                 "Portfolio optimization",
                 "Django",
                 "Pandas",

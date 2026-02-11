@@ -4,7 +4,7 @@
     <div class="row">
       <div v-for="project in projects" :key="project['title']" class="col-md-4 mb-5">
         <div class="card h-100">
-          <img :src="project['image']" class="card-img-top" :alt="project['title']">
+          <img :src="require(`../assets/${project['image']}`)" class="card-img-top" :alt="project['title']">
           <div class="card-body">
             <h3 class="card-title">{{ project['title'] }}</h3>
             <h5 class="card-title">{{ project['brief'] }}</h5>
