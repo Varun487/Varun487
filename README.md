@@ -6,7 +6,7 @@ My work sits at the intersection of **trading systems, execution algorithms, and
 
 ---
 
-### 🔍 What You’ll Find in My Repositories
+### 🔍 What I Build & Research
 
 **📊 Quantitative & Execution Analysis**  
 Research and analysis focused on execution quality, market microstructure, and systematic trading strategies.
