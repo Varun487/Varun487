@@ -33,14 +33,14 @@
                 "from": "September 2022",
                 "to": "May 2024",
                 "program": "Master of Science in Financial Engineering",
-                "description": "Concentration in Algorithmic Trading Strategies"
+                "description": "Concentration in Algorithmic Trading Strategies · GPA: 3.9/4.0"
             },
             {
                 "institution": "PES University",
                 "from": "June 2018",
                 "to": "May 2022",
                 "program": "Bachelor of Technology in Computer Science Engineering",
-                "description": "Specialization in Machine Intelligence and Data Science"
+                "description": "Specialization in Machine Intelligence and Data Science · CGPA: 8.59/10"
             },
             {
                 "institution": "Delhi Public School Bangalore East",
@@ -58,21 +58,23 @@
                 "title": "Front Office Product Support - Electronic Trading",
                 "description":[
                     "Supported electronic and algorithmic trading workflows for institutional equity execution, monitoring and troubleshooting OMS/EMS and execution flows to ensure stable order routing and execution quality.",
+                    "Selected to represent the Americas region on Liquidnet's global AI workstream, driving adoption of AI tools and building new ones across regional Product Support teams to reduce duplicated effort and improve consistency.",
                     "Partnered closely with traders, sales, and engineering to resolve time-sensitive production issues in live market conditions, supporting front-office trading operations.",
                     "Analyzed order lifecycle and execution behavior to identify flow, configuration, and connectivity issues impacting algorithmic trading performance.",
                     "Implemented system and strategy configuration changes within OMS/EMS and trading platforms to support client onboarding, coverage team requests, and trading workflow requirements",
-                    "Assisted in incident response and post-trade analysis, helping reduce recurring production issues through improved workflows and documentation."
+                    "Assisted in incident response and post-trade analysis, helping reduce recurring production issues through improved workflows and documentation.",
+                    "Built and deployed an internal deployment tool for Inforeach OMS GUIs, streamlining release workflows and reducing manual steps for the front-office team."
                 ]
             },
             {
-                "company": "Bestex Research",
+                "company": "BestEx Research",
                 "from": "August 2024",
                 "to": "August 2025",
-                "title": "Algorithmic Trading Analyst",
+                "title": "Execution Services Analyst",
                 "description":[
                     "Certified and managed FIX connectivity for multiple brokers and venues, ensuring reliable trade routing and compliance.",
                     "Supported real-time trading operations, resolving production issues in coordination with traders, engineers, and venues.",
-                    "Streamlined onboarding for equities and futures clients, reducing setup time by 5% by automating the certification process leveraging FIX protocol expertise.",
+                    "Streamlined onboarding for equities and futures clients, reducing setup time by automating the certification process leveraging FIX protocol expertise.",
                     "Owned and improved the UAT testing environment by automating operational workflows with Python scripts, cutting manual effort."
                 ]
             },
@@ -92,7 +94,7 @@
                 "to": "July 2022",
                 "title": "Software Engineering Intern",
                 "description":[
-                    "Developed Hiver Chat app's frontend using Vue.js and ReactJS, increasing customer engagement by 2%",
+                    "Developed Hiver Chat app's frontend using Vue.js and ReactJS, opening a new channel for customer support",
                     "Integrated 8 customization features to Hiver Chat app by adding functionality to Hiver Admin Panel using ReactJS",
                     "Implemented an interactive analytics dashboard with Vue.js, enabling customers to track chat engagement and customer feedback, resulting in a 5% increase in customers feedback responses"
                 ]
@@ -142,11 +144,11 @@
                 ],
                 "keywords": [ "Python", "Django", "Pandas", "Keras", "JavaScript", "Vue.js", "LSTM", "Algorithmic Trading"],
                 "github": "https://github.com/Varun487/AIAlgoTrading",
-                "web": "https://github.com/Varun487/AIAlgoTrading"
+                "web": "https://ieeexplore.ieee.org/document/9734127"
             },
             {
                 "image": "PortfolioAllocationModels.png",
-                "title": "Portfolio allocation models comparision",
+                "title": "Portfolio allocation models comparison",
                 "brief": "Built 2 variations of factor-based long/short portfolio allocation models",
                 "description": [
                     "Computed estimators of expected returns and covariance for 9 combinations of look back periods on 11 ETFs and SPY index utilizing Python and Pandas",
@@ -172,7 +174,7 @@
             {
                 "image": "JavaScriptCompiler.png",
                 "title": "Mini JavaScript Compiler",
-                "brief": "A compiter for Javascript",
+                "brief": "A compiler for JavaScript",
                 "description": [
                     "Developed a compiler for JavaScript using yacc and lex for lexical analysis, symbol table generation, and syntax validation",
                     "Implemented optimization techniques to generate optimized intermediate code from JavaScript programs",
@@ -220,10 +222,16 @@
                 "fab fa-vuejs"
             ],
             "skill-list": [
-                "C++",
                 "Python",
+                "C++",
+                "JavaScript",
+                "SQL",
+                "Bash",
                 "FIX Protocol",
+                "Algorithmic Trading Workflows",
+                "Order Lifecycle Analysis",
                 "Portfolio optimization",
+                "Vue.js",
                 "Django",
                 "Pandas",
                 "Keras"
