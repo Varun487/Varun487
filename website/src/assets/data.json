@@ -11,7 +11,7 @@
             "lastname": "Seshu",
             "phone": "+1 (201) 736-5840 · +91 9535059781",
             "email": "seshuvarun@gmail.com",
-            "description": "Front Office Product Support - Electronic Trading | Liquidnet (TP ICAP)",
+            "description": "Front Office Product Support - Electronic Trading | Liquidnet (TP ICAP Group)",
             "links": {
                 "website": {
                     "icon": "fas fa-globe-americas",
@@ -52,7 +52,7 @@
         ],
         "experience": [
             {
-                "company": "Liquidnet (TP ICAP)",
+                "company": "Liquidnet (TP ICAP Group)",
                 "from": "September 2025",
                 "to": "Present",
                 "title": "Front Office Product Support - Electronic Trading",
@@ -61,9 +61,8 @@
                     "Selected to represent the Americas region on Liquidnet's global AI workstream, driving adoption of AI tools and building new ones across regional Product Support teams to reduce duplicated effort and improve consistency.",
                     "Partnered closely with traders, sales, and engineering to resolve time-sensitive production issues in live market conditions, supporting front-office trading operations.",
                     "Analyzed order lifecycle and execution behavior to identify flow, configuration, and connectivity issues impacting algorithmic trading performance.",
-                    "Implemented system and strategy configuration changes within OMS/EMS and trading platforms to support client onboarding, coverage team requests, and trading workflow requirements",
-                    "Assisted in incident response and post-trade analysis, helping reduce recurring production issues through improved workflows and documentation.",
-                    "Built and deployed an internal deployment tool for Inforeach OMS GUIs, streamlining release workflows and reducing manual steps for the front-office team."
+                    "Managed OMS/EMS configuration changes and incident response, including post-trade analysis to reduce recurring issues.",
+                    "Built and deployed internal release tooling for the front-office team — including an Inforeach OMS GUI deployment tool and a pre-release user force-logout utility — streamlining releases and reducing manual steps."
                 ]
             },
             {
@@ -234,7 +233,8 @@
                 "Vue.js",
                 "Django",
                 "Pandas",
-                "Keras"
+                "Keras",
+                "Excel"
             ]
         }
     }

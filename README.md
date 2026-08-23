@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Varun Seshu**, a **Front Office Product Support professional working on Electronic & Algorithmic Trading** at **Liquidnet (a TP ICAP company)**, where I support institutional equity execution and represent the Americas region on Liquidnet's **global AI workstream** — driving AI tool adoption across Product Support teams.
+I'm **Varun Seshu**, a **Front Office Product Support professional working on Electronic & Algorithmic Trading** at **Liquidnet (TP ICAP Group)**, where I support institutional equity execution and represent the Americas region on Liquidnet's **global AI workstream** — driving AI tool adoption across Product Support teams.
 
 Previously an **Execution Services Analyst at BestEx Research**, where I certified FIX connectivity for brokers and venues and automated client onboarding workflows with Python. I hold a **Master's in Financial Engineering** (Algorithmic Trading Strategies) from **Stevens Institute of Technology** and a **B.Tech in Computer Science** from PES University.
 
@@ -10,11 +10,11 @@ My work sits at the intersection of **trading systems, execution algorithms, and
 
 ### 🔍 What I Build & Research
 
-**📊 Quantitative Research & Trading Strategies**
-Built an AI algorithmic trading system (150 LSTM models, 2,000 backtests) and **published an IEEE research paper** on the results. Other work includes an American options pricing engine in C++/QuantLib and factor-based long/short portfolio allocation models.
-
 **⚙️ Trading Systems & Automation**
-Python tooling for production trading workflows — FIX certification automation, UAT environment automation, and internal deployment tools for OMS front-ends.
+Internal tooling for front-office production workflows at Liquidnet — a deployment tool for Inforeach OMS GUIs and a pre-release force-logout utility, both built to streamline releases and cut manual steps. Earlier automation work includes FIX certification and UAT environment automation at BestEx Research.
+
+**📊 Quantitative Research & Trading Strategies**
+Built an AI algorithmic trading system (150 LSTM models, 2,000 backtests) and **published an [IEEE research paper](https://ieeexplore.ieee.org/document/9734127)** on the results. Other work includes an American options pricing engine in C++/QuantLib and factor-based long/short portfolio allocation models.
 
 **💻 Engineering & Data Work**
 Primarily **Python and C++**, with experience in **SQL, FIX protocol, Vue.js, Django, and production trading systems**.
