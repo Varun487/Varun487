@@ -58,10 +58,10 @@
                 "title": "Front Office Product Support - Electronic Trading",
                 "description":[
                     "Supported electronic and algorithmic trading workflows for institutional equity execution, monitoring and troubleshooting OMS/EMS and execution flows to ensure stable order routing and execution quality.",
-                    "Selected to represent the Americas region on Liquidnet's global AI workstream, driving adoption of AI tools and building new ones across regional Product Support teams to reduce duplicated effort and improve consistency.",
+                    "Represented the Americas region on Liquidnet's global AI workstream; contributed to the development of Maverick, an AI agent that reads logs, incidents, and JIRA tickets to help Product Support teams resolve issues — fixing bugs and improving response quality.",
                     "Partnered closely with traders, sales, and engineering to resolve time-sensitive production issues in live market conditions, supporting front-office trading operations.",
                     "Analyzed order lifecycle and execution behavior to identify flow, configuration, and connectivity issues impacting algorithmic trading performance.",
-                    "Managed OMS/EMS configuration changes and incident response, including post-trade analysis to reduce recurring issues.",
+                    "Managed OMS/EMS configuration changes and incident response — including off-hours support to help the APAC team restore systems before market open — with post-trade analysis to reduce recurring issues.",
                     "Built and deployed internal release tooling for the front-office team — including an Inforeach OMS GUI deployment tool and a pre-release user force-logout utility — streamlining releases and reducing manual steps."
                 ]
             },
@@ -229,6 +229,8 @@
                 "FIX Protocol",
                 "Algorithmic Trading Workflows",
                 "Order Lifecycle Analysis",
+                "AI Agents",
+                "LLM Tooling",
                 "Portfolio optimization",
                 "Vue.js",
                 "Django",
